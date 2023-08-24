@@ -1,0 +1,75 @@
+.esqcima{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    display: flex;
+  }
+  
+  .dircima{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    display: flex;
+  }
+  
+  .esqbaixo{
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    display: flex;
+  }
+  
+  .dirbaixo{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    display: flex;
+  }
+  
+  .center{
+    text-align: center;
+  }
+
+  #imgcima{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+  }
+
+  #notificacao{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+  }
+
+  #caixa{
+    border-color: rgb(66, 93, 93);
+    word-spacing: normal;
+    border-radius: 20%;
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+table{
+        border-spacing: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+#logo{
+  text-align: center;
+}
+
+#apps{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.botao{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-color: rgb(136, 76, 191);
+  background-color: rgb(203, 179, 149);
+}
